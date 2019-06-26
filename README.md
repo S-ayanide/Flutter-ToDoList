@@ -11,25 +11,19 @@ A very colorful To Do List. Users can enter a title and a description(optional) 
 Created a To Do List using Flutter, this to do list has features like setting priority as either low or high. Users can enter a title and a description(optional) and set a priority for the to do item. High priority lists appear on top of the low priority ones and are marked as Red whereas the low priority lists are marked as Yellow. The list changes color after every addition or deletion of items.
 
 ## Screenshots
-<img src="images/Capture1.PNG"
+<img src="images/Capture1.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture2.PNG"
+     width="200"/> <img src="images/Capture2.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture3.PNG"
+     width="200"/> <img src="images/ToDoAdd.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2eKf5GwmUd2SBFHkMz/200w_d.gif"
+     width="200"/> <img src="images/ToDoDelete.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2sfDYwLZWJa3vzcKmG/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/fQAxC8cuFEbA0f5tql/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/>
+     width="200"/> 
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
