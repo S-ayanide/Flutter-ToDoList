@@ -1,14 +1,14 @@
-# Scratch And Win
+# Flutter - To Do List
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-ScratchAndWin.svg)](https://github.com/S-ayanide/Flutter-ScratchAndWin/issues)
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=popout)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
 
-A simple Scratch and Win App where you have a grid of 25 blocks out of which only one block has the prize. Good Luck finding out which one. 😉👌
+A very colorful To Do List. Users can enter a title and a description(optional) and set a priority for the to do item. High priority lists appear on top of the low priority ones 📜📋
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app allows the user to select any 5 block from the total 25 present out of which only one has the prize. If you figure out which block it is on or before 5th try then you win, else you lose and the game will reset itself. It's a game of Luck. Good Luck!
+Created a To Do List using Flutter, this to do list has features like setting priority as either low or high. Users can enter a title and a description(optional) and set a priority for the to do item. High priority lists appear on top of the low priority ones and are marked as Red whereas the low priority lists are marked as Yellow. The list changes color after every addition or deletion of items.
 
 ## Screenshots
 <img src="images/Capture1.PNG"
